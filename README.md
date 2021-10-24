@@ -1,2 +1,2 @@
-# Machine_Learning
-Contains Detail Information about all machine learning algorithm explained using examples 
+# Machine_Learning_Regression
+Contains Detail Information about all machine learning regression algorithm explained using examples 
